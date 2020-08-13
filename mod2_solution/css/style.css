@@ -75,7 +75,17 @@ section>p {
   section.box_3{
     margin-right: 65px;
     float: right;
-      width: 100px;
+    width: 100px;
+  }
+    section.box_2{
+    margin-right: 65px;
+    float: right;
+    width: 100px;
+  }
+    section.box_1{
+    margin-right: 65px;
+    float: right;
+    width: 100px;
   }
 }
 /********** Mobile devices only **********/
