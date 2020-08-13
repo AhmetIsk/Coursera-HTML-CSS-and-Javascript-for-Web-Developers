@@ -77,16 +77,6 @@ section>p {
     float: right;
     width: 100px;
   }
-    section.box_2{
-    margin-right: 65px;
-    float: right;
-    width: 100px;
-  }
-    section.box_1{
-    margin-right: 65px;
-    float: right;
-    width: 100px;
-  }
 }
 /********** Mobile devices only **********/
 @media (min-width: 0px) and (max-width: 767px) {
