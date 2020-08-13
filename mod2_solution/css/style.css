@@ -75,20 +75,11 @@ section>p {
   .col-md-12 {
     width: 100%;
   }
-  section.box_3{
-    clear: left;
-    margin-right: 65px;
-    width: 100px;
-  }
-
 }
 /********** Mobile devices only **********/
 @media (min-width: 0px) and (max-width: 767px) {
   .col-sm-12 {
   	float: left;
     width: 100%;
-  }
-  h2{
-    margin-right: 30px;
   }
 }
