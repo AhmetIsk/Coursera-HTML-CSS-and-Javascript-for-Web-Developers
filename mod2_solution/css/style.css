@@ -74,7 +74,8 @@ section>p {
   }
   section.box_3>h2{
     margin-right: 65px;
-    width: 100px;
+    float: right;
+      width: 100px;
   }
 }
 /********** Mobile devices only **********/
