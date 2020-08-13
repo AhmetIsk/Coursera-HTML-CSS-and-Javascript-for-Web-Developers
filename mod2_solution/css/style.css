@@ -72,9 +72,8 @@ section>p {
     margin-left: -10px;
     width: 100%;
   }
-  section.box_3{
+  section.box_3>h{
     margin-right: 65px;
-    float: right;
     width: 100px;
   }
 }
