@@ -9,13 +9,13 @@ body {
 
 h1 {
     text-align: center;
-    color: black;
+    color: #191970;
 }
 
 section {
     border: 2px solid black;
     background-color: #D8BFD8;
-    margin: 15px;
+    margin: 10px;
 }
 
 section>h2 {
