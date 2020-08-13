@@ -53,6 +53,7 @@ section>p {
     width: 100%;
 }
 
+/********** Desktop devices only **********/
 @media (min-width: 992px) {
   .col-lg-4 {
   	float: left;
@@ -71,12 +72,12 @@ section>p {
     margin-left: -10px;
     width: 100%;
   }
-  .name3{
+  section.boxes_3>h2{
     margin-right: 65px;
     width: 100px;
   }
 }
-
+/********** Mobile devices only **********/
 @media (min-width: 0px) and (max-width: 767px) {
   .col-sm-12 {
   	float: left;
