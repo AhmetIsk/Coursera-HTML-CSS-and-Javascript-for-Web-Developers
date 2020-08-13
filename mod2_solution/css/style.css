@@ -30,6 +30,9 @@ section>h2 {
     font-weight: bold;
     height: 45px;
     padding-top: 10px;
+  position: relative;
+  top: 0;
+  right: 0;
 }
 
 section.box_1>h2 {
@@ -51,6 +54,7 @@ section>p {
 
 .adjust{
     width: 100%;
+    position: relative;
 }
 
 /********** Desktop devices only **********/
