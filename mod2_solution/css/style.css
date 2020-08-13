@@ -66,14 +66,14 @@ section>p {
     float: left;
   }
   .col-md-6 {
-    width: -50%;
+    width: 50%;
   }
   .col-md-12 {
     margin-left: -10px;
     width: 100%;
   }
-  section.box_3>h{
-    
+  section.box_3>h2{
+    margin-right:30px;
     width: 100px;
   }
 }
