@@ -72,10 +72,7 @@ section>p {
     margin-left: -10px;
     width: 100%;
   }
-  section.box_3>h2{
-    margin-right:30px;
-    width: 100px;
-  }
+
 }
 /********** Mobile devices only **********/
 @media (min-width: 0px) and (max-width: 767px) {
