@@ -30,9 +30,9 @@ section>h2 {
     font-weight: bold;
     height: 45px;
     padding-top: 10px;
-  position: relative;
-  top: 0;
-  right: 0;
+    position: relative;
+    top: 0;
+    right: 0;
 }
 
 section.box_1>h2 {
@@ -76,7 +76,7 @@ section>p {
     width: 100%;
   }
   section.box_3{
-    clear: both;
+    clear: left;
     margin-right: 65px;
     width: 100px;
   }
